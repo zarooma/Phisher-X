@@ -33,6 +33,7 @@ A phishing tool.
 - Steam login page.
 
 - Linkdin login page.
+Cool
 
 (More pages will be added later)
 
